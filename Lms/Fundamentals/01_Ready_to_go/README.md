@@ -6,8 +6,6 @@ AIFFEL LMS 활용을 위한 사용자 환경 구성이 완료되었는지 점검
 
 ## 목차
 
-***
-
 - [LMS 200% 활용하기](#lms-200-활용하기)
   - [LMS란?](#lms란)
   - [LMS 핵심 기능](#LMS-핵심-기능)
@@ -17,8 +15,6 @@ AIFFEL LMS 활용을 위한 사용자 환경 구성이 완료되었는지 점검
 - [코드 실행 확인하기](#코드-실행-확인하기)
 
 ## LMS 200% 활용하기
-
-***
 
 ### LMS란?
 
@@ -44,8 +40,6 @@ Learning Management System == 교육 관리 시스탬
 
 ## 안녕, 우분투
 
-***
-
 ### OS란?
 
 [자원을 효율적으로 사용하게 해주고 관리해 주는 시스템](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=pst8627&logNo=221663921157)
@@ -70,8 +64,6 @@ Learning Management System == 교육 관리 시스탬
   - apple 전용 OS
 
 ## 삐삑! 환경 구성 나와라, 오버
-
-***
 
 ### 쉘이란?
 
@@ -132,15 +124,17 @@ Learning Management System == 교육 관리 시스탬
 
 ## Cloud
 
-***
-
 데이터를 인터넷과 연결된 중앙 컴퓨터에 저장하여 필요할 때 데이터를 이용함
 
 ### 종류
 
+***
+
 [![07](img/07.webp)](https://www.bmc.com/blogs/aws-vs-azure-vs-google-cloud-platforms/)
 
 ### 장단점
+
+***
 
 |AWS|Azure|GCP|
 |:-:|:-:|:-:|
@@ -149,7 +143,6 @@ Learning Management System == 교육 관리 시스탬
 
 ## 관련 링크
 
-***
 |날짜|제목(링크)|내용|
 |:-:|:--------:|:--:|
 |?|[LMS](https://www.abbreviationfinder.org/ko/acronyms/lms.html)|다양한 LMS의 의미|
