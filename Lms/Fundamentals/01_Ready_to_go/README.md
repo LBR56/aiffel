@@ -160,4 +160,4 @@ Learning Management System == 교육 관리 시스탬
 |21.06.29|[터미널, 콘솔, 쉘](https://www.geeksforgeeks.org/difference-between-terminal-console-shell-and-command-line/)|다른 점|
 |22.07.04|[커널](https://ko.wikipedia.org/wiki/커널_(컴퓨팅))|커널이란? 커널의 종류|
 |20.06.30|[패키지, 라이브러리, 모듈](https://thinkreen.github.io/python/py-FunctionModuleClass/)|다른 점|
-|21.10.01|[AWS, Azure, GCP](ttps://www.bmc.com/blogs/aws-vs-azure-vs-google-cloud-platforms/)|장단점|
+|21.10.01|[AWS, Azure, GCP](https://www.bmc.com/blogs/aws-vs-azure-vs-google-cloud-platforms/)|장단점|
