@@ -26,3 +26,4 @@
 
 |이름(링크)|내용|
 |:-------:|:--:|
+|[Ready to go](01_Ready_to_go)|aiffel lms 환경의 이해|

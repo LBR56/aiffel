@@ -10,7 +10,6 @@
 
 - [추천하는 공부법](#추천하는-공부법)
 - [수업 목록](#수업-목록)
-  -[Python Master](#python-masterpythonmaster)
 
 ## 추천하는 공부법
 
