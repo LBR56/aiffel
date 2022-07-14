@@ -26,4 +26,6 @@
 
 |이름(링크)|내용|
 |:-------:|:--:|
-|[Ready to go](01_Ready_to_go)|aiffel lms 환경의 이해|
+|[1. Ready to go](01_Ready_to_go)|aiffel lms 환경의 이해|
+|[11. 사이킷런으로 구현해 보는 머신러닝](11_scikit_learn)|sklearn의 패키지와 모듈 탐구|
+|[12. 텍스트의 다양한 변신(문자열, 파일 다루기)](12_text_data_handling)|utf-8, regex, file format(csv, xml, json) 배우기|
