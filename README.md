@@ -13,4 +13,5 @@
 |[LMS(learning management system)](Lms)|학습 관리 시스템|
 |[Flipped Learning](FlippedLearning)|학습 후 교류|
 |[Study](Study)|그루간 교류|
+|[Dictionary](Dictionary)|내용 정리|
 |[Etc](Etc)|기타 내용 or interrupt|
